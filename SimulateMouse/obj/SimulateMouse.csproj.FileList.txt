@@ -1,0 +1,8 @@
+bin\Debug\SimulateMouse.exe
+bin\Debug\SimulateMouse.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimulateMouse.Properties.Resources.resources
+obj\Debug\SimulateMouse.csproj.GenerateResource.Cache
+obj\Debug\SimulateMouse.exe
+obj\Debug\SimulateMouse.pdb
+obj\Debug\SimulateMouse.DemoForm.resources
